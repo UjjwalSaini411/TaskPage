@@ -1,0 +1,22 @@
+.navbar{
+    height: 82px;
+}
+.nav-items{
+    color: #000;
+font-family: "Lexend Deca";
+font-size: 14.475px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.nav-left{
+gap: 45px;
+}
+.nav-right{
+gap: 50px;
+}
+.heart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

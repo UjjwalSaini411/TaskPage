@@ -1,0 +1,114 @@
+.news-line{
+    background: #03701B;
+    width: 3px;
+height: 30px;
+}
+.news-container-div{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.news-title{
+    color: #03701B;
+font-family: "Lexend Deca";
+font-size: 27px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+display: flex;
+gap: 17px;
+margin-bottom: 32px;
+align-items: center;
+
+}
+
+
+  
+  .news-line {
+    display: inline-block;
+    width: 5px;
+    height: 25px;
+    background-color: green;
+    margin-right: 10px;
+  }
+
+  .news-container-div{
+    margin-top: 64px;
+  }
+ 
+  .news-container{
+    border-radius: 9.156px;
+background: rgba(217, 217, 217, 0.35);
+/* max-width: 342.408px; */
+width: 100%;
+flex-shrink: 0;
+  }
+  
+  .list-group {
+    display: flex;
+    align-items: center;
+    background: #f5f5f5;
+    border-radius: 10px;
+    border: none;
+    gap: 14.42px;
+    padding-left: 13.52px !important;
+    padding-top: 13.52px ;
+    padding-bottom: 13.52px ;
+    padding-right: 20px;
+  }
+  .news-item{
+    border-radius: 9.011px;
+background: #FFF;
+box-shadow: 0px 2.703px 2.703px -0.901px rgba(0, 0, 0, 0.25);
+/* max-width: 308.167px; */
+width: 100%;
+height: 121.645px;
+flex-shrink: 0;
+  }
+  .news-number {
+    color: rgba(0, 0, 0, 0.40);
+    font-family: "Lexend Deca";
+    font-size: 21.626px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  
+  .highlight {
+    color: #DCAA4C;
+  }
+  
+  .news-content {
+    display: flex;
+    gap: 16px;
+    margin-top: 8px;
+  }
+  
+  .news-text {
+    color: #000;
+    font-family: "Lexend Deca";
+    font-size: 14.417px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  
+  .news-meta {
+    color: #000;
+    font-family: "Lexend Deca";
+    font-size: 11.714px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 42px;
+    position: absolute;
+    bottom: 16px;
+
+  }
+  .blob-container{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
